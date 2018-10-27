@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GarageProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GarageProject">
+				<Option output="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug/GarageProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 GarageProject"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GarageProject/fast">
+				<Option output="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug/GarageProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 GarageProject/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\New Folder\GarageProject9_7\GarageProject\GarageProject\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Battery.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Battery.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Car.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Car.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Coden.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Coden.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/ElectricEngine.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/ElectricEngine.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Engine.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Engine.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/GasolineEngine.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/GasolineEngine.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Main.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Malfunction.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Malfunction.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Motorcycle.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Motorcycle.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/OilPump.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/OilPump.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Owner.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Owner.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Part.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Part.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Person.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Person.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Profession.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Veichle.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Veichle.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/VeichleProblems.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/VeichleProblems.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Wheel.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Wheel.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Worker.cpp">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/Worker.h">
+			<Option target="GarageProject"/>
+		</Unit>
+		<Unit filename="C:/New Folder/GarageProject9_7/GarageProject/GarageProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug/CMakeFiles/GarageProject.dir
+C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/New Folder/GarageProject9_7/GarageProject/GarageProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
